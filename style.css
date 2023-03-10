@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(44, 43, 43);
+    color: aqua;
+}
+h1{
+    font-family: cursive;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 10%; 
+}
+.item{
+    margin: 10px auto ;
+}
+
+.content{
+    font-size: 2rem;;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
